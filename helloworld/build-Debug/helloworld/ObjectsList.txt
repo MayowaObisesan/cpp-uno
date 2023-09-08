@@ -1,0 +1,1 @@
+../build-Debug/helloworld/log.cpp.o ../build-Debug/helloworld/main.cpp.o
